@@ -12,4 +12,6 @@ weather or not all fields are filled, if fields are empty then no next button cl
 
 **How to run tests**
 
-- python3 -m unittest tests/test_python_selenium.py
+- ```bash
+  python3 -m unittest tests/test_python_selenium.py
+  ```
