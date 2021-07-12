@@ -1,3 +1,16 @@
+**How to run tests**
+
+
+- ```bash
+  python3 -m unittest tests/test_python_selenium.py
+  ```
+  **Weak areas**
+
+- explicit wait not working properly in few method hardly I used time.sleep becuase explicit was not working may be my selectors are weak I will cover with my hard work.
+- I work hard to complete this assignment and if give me a chance the I will prove myself with hardwork.
+
+
+
 **Python Selenium Web Automation**
 - this is python selenium web automation assignment where we run test cases to check
 weather or not all fields are filled, if fields are empty then no next button clicked, I wrote some negative and positive test cases to check validation of fields. We test required messages that show all fileds are required. We check email, number and cnic pattern matching or not.
@@ -11,21 +24,4 @@ weather or not all fields are filled, if fields are empty then no next button cl
 - Csv file for record data
 - logging for log file check element existance
 
-**How to run tests**
-
-<<<<<<< HEAD
-- ```bash
-  python3 -m unittest tests/test_python_selenium.py
-  ```
-  **Weak areas**
-
-- explicit wait not working properly in few method hardly I used time.sleep becuase explicit was not working may be my selectors are weak I will cover with my hard work.
-- I work hard to complete this assignment and if give me a chance the I will prove myself with hardwork.
-
-
-=======
--
-- ```bash
-  python3 -m unittest tests/test_python_selenium.py
-  ```
 >>>>>>> requirement file add for dependencies
